@@ -1,4 +1,14 @@
-.List{
+*{
   text-align: center;
   font-family:'Courier New', Courier, monospace;
+}
+
+.LasagnaList{
+  color: #00ff00;
+
+}
+
+.Visual {
+  color: blue;
+  background-color: coral;
 }
